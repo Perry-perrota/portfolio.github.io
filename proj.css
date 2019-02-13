@@ -1,0 +1,19 @@
+h1,h2{
+  color: blue;
+  font-size: 40px;
+  font-style: italic;
+}
+img{
+border:2px solid;
+}
+p{
+color: red
+}
+ .mark{
+   background-color: grey;
+   width: 600px;
+   height: 40%;
+ }
+ #road{
+   background-color: #80deea;
+ }
