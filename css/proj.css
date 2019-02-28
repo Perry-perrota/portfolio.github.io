@@ -1,0 +1,38 @@
+
+body{
+  background-color: green;
+}
+h1{
+  color: blue;
+  font-size: 35px;
+  font-style: italic;
+  text-align: center;
+  text-align: center;
+}
+
+h2{
+  color: blue;
+  font-size: 35px;
+  font-style: italic;
+  text-align: center;
+  text-align: center;
+}
+h3{
+  color: white;
+  font-size: 30px;
+}
+
+
+img{
+border:2px solid;
+}
+p{
+color: blue;
+font-size: 35px;
+text-align: center;
+}
+ .mark{
+   background-color:yellow;
+   width: 1200px;
+   height: 40%;
+ }

@@ -1,19 +1,81 @@
-h1,h2{
+body{
+  background-color: green;
+}
+h1{
   color: blue;
   font-size: 40px;
   font-style: italic;
+  text-align: center;
 }
+h2{
+  color: green;
+  font-size: 35px;
+  font-style: italic;
+  text-align: center;
+}
+#lew{
+  color: blue;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+  .molo{
+    color: green;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center
+  }
+  #mwa{
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+  }
+  #riko{
+    color: green;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+  }
+  #roho{
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+  }
+  #chwa{
+    color: green;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+  }
+  #wa{
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+  }
+
+}
+
 img{
 border:2px solid;
+margin: 100px;
 }
 p{
 color: red
 }
  .mark{
-   background-color: grey;
-   width: 600px;
+   background-color: #FFF9C4;
+   width: 1250px;
    height: 40%;
  }
  #road{
    background-color: #80deea;
+ }
+ .center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 30%;
  }
